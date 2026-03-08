@@ -1,0 +1,5 @@
+django==5.0.*
+django-leaflet
+crispy-bootstrap5
+django-crispy-forms
+pillow
